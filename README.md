@@ -4,7 +4,11 @@
 This is an AI-powered voice assistant designed to help individuals navigate their career choices by providing structured guidance and roadmaps. It records audio, transcribes speech into text, processes it using a language model, and responds with career advice.
 
 ## 🚀 Demo
-[![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+
+https://github.com/user-attachments/assets/da495451-e3d8-40f6-9d4e-c67a848a2f30
+
+
 
 *Note: Replace `YOUR_VIDEO_ID` with the actual YouTube video ID of your project demo.*
 
